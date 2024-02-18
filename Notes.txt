@@ -1,0 +1,2 @@
+activate environment:  fastapi-env\Scripts\activate.bat
+run fastapi-app: uvicorn main:app --reload
